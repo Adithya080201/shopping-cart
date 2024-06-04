@@ -1,0 +1,39 @@
+.product-item {
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.product-item h2 {
+  margin: 0 0 10px;
+  color: #333;
+  font-size: 24px;
+}
+
+.product-item p {
+  margin: 5px 0;
+  color: #666;
+}
+
+.product-item input {
+  width: 60px;
+  margin: 0 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.product-item button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.product-item button:hover {
+  background-color: #0056b3;
+}
